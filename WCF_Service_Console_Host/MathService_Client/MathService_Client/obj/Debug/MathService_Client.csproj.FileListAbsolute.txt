@@ -1,0 +1,9 @@
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\bin\Debug\MathService_Client.exe.config
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\bin\Debug\MathService_Client.exe
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\bin\Debug\MathService_Client.pdb
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\obj\Debug\MathService_Client.csprojResolveAssemblyReference.cache
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\obj\Debug\MathService_Client.Form1.resources
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\obj\Debug\MathService_Client.Properties.Resources.resources
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\obj\Debug\MathService_Client.csproj.GenerateResource.Cache
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\obj\Debug\MathService_Client.exe
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService_Client\MathService_Client\obj\Debug\MathService_Client.pdb

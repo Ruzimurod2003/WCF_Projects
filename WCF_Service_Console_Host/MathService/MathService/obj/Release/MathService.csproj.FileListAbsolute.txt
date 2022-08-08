@@ -1,0 +1,6 @@
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService\MathService\bin\Release\MathService.dll.config
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService\MathService\bin\Release\MathService.dll
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService\MathService\bin\Release\MathService.pdb
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService\MathService\obj\Release\MathService.csprojResolveAssemblyReference.cache
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService\MathService\obj\Release\MathService.dll
+D:\Nirav.Daraniya\Practice\WCF\blog\MathService\MathService\obj\Release\MathService.pdb

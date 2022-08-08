@@ -1,0 +1,8 @@
+D:\Ruzimurod\Projects\WCF_Service_2\bin\Debug\WCF_Service_2.exe.config
+D:\Ruzimurod\Projects\WCF_Service_2\bin\Debug\WCF_Service_2.exe
+D:\Ruzimurod\Projects\WCF_Service_2\bin\Debug\WCF_Service_2.pdb
+D:\Ruzimurod\Projects\WCF_Service_2\obj\Debug\WCF_Service_2.csproj.AssemblyReference.cache
+D:\Ruzimurod\Projects\WCF_Service_2\obj\Debug\WCF_Service_2.csproj.SuggestedBindingRedirects.cache
+D:\Ruzimurod\Projects\WCF_Service_2\obj\Debug\WCF_Service_2.csproj.CoreCompileInputs.cache
+D:\Ruzimurod\Projects\WCF_Service_2\obj\Debug\WCF_Service_2.exe
+D:\Ruzimurod\Projects\WCF_Service_2\obj\Debug\WCF_Service_2.pdb
